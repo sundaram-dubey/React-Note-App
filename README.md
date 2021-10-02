@@ -1,5 +1,3 @@
-<h1>Set your Node modules while setting up this project .</h1>
-<img src = "https://images.unsplash.com/photo-1517842645767-c639042777db?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
